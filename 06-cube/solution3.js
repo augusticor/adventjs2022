@@ -18,7 +18,7 @@ function createCube(size = 1) {
   return cube.trimEnd();
 }
 
-// console.log(createCube(1));
+console.log(createCube(1));
 console.log(createCube(2));
-// console.log(createCube(3));
+console.log(createCube(3));
 console.log(createCube(4));
